@@ -1,0 +1,13 @@
+
+commit 스냅샷
+branch 커밋 참조 (작업 내역 로그)
+checkout 브랜치 변경
+cherry-pick 
+reset 브랜치가 이전 커밋으로 이동
+revert 새 커밋 만들고 커밋을 이동해서 삭제 처럼 사용
+rebase 커밋 흐름 정렬
+merge 브랜치 합치기
+push 서버에 올림
+add
+status 브랜치 상태
+rm 삭제
